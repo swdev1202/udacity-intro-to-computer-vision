@@ -3,6 +3,14 @@ Introduction to Computer Vision offered from [Udacity](https://www.udacity.com/c
 
 This repository contains course materials and exercises using opencv library on Jupyter.
 
+# Required Packages
+```
+opencv-python
+numpy
+matplotlib
+jupyter
+``` 
+
 # Links to the chapters
 * 1A
     * [L1 Introduction](notes/1A/L1_Introduction.ipynb)
