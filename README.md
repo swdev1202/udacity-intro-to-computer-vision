@@ -16,4 +16,5 @@ jupyter
     * [L1 Introduction](notes/1A/L1_Introduction.ipynb)
 * 2A
     * [L1 Images as Functions](notes/2A/L1_Images_as_Functions.ipynb)
-    * [L2 Filtering](notes/2B/L2_Filtering)
+    * [L2 Filtering](notes/2A/L2_Filtering.ipynb)
+    * [L3 Linearity and Convolution](notes/2A/L3_Linearity_and_convolution.ipynb)
