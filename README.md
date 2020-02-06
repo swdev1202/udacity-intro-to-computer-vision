@@ -19,3 +19,4 @@ jupyter
     * [L2 Filtering](notes/2A/L2_Filtering.ipynb)
     * [L3 Linearity and Convolution](notes/2A/L3_Linearity_and_convolution.ipynb)
     * [L4 Filters as templates](notes/2A/L4_Filters_as_templates.ipynb)
+    * [L5 Edge Detection](notes/2A/L5_Edge_detection.ipynb)
